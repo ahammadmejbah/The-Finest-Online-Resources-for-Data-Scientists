@@ -29,4 +29,27 @@
   SmartData Collective is a community that is editorially independent, moderated, and gives corporate executives with access to the most recent developments in business intelligence and data management. Through peer contributions, bespoke content publication, and alignment with industry leaders, our forward-thinking methodology acts as a platform that enables renowned professionals from all around the world to share their thoughts with others.
 
 
+11. <a href="https://cmdlinetips.com/">Tips for the Command Line</a>
+Tips on Python, Tips on R, Tips on Linux, Tips on the Command Line, Data Science using Python, Data Science using R, and Data Science using overall
+
+12. <a href="https://www.ethanrosenthal.com/">Data Piques</a>
+Blog written by Ethan Rosenthal, a Data Scientist
+
+13. <a href="https://www.littlemissdata.com/">Little Miss Data: </a>
+a website that is solely devoted to random ramblings on all matters pertaining to data and analytics.
+
+14. <a href="https://indatalabs.com/blog">InData Labs Blog:</a>
+The InData Labs Data Science blog provides up-to-date information about artificial intelligence, computer vision, and advanced data analytics, as well as news about the firm and helpful resources that may help your organization improve. InData Labs is a pioneering company in the field of data science, offering services including data science consultancy as well as unique AI-powered software development.
+
+15. <a href="https://indatalabs.com/blog">InData Labs Blog:</a>
+Data science consulting and bespoke software development driven by artificial intelligence are two of the services that InData Labs offers. We help organizations innovate with AI, improve their consumer insights, and become more cost-efficient by concentrating on predictive analytics, natural language processing, and computer vision. In this section, you will discover all of the most recent thinking in data science, as well as case studies, corporate news, and several other helpful resources.
+
+16. <a href="https://hevodata.com/">Hevo Blog: </a>
+Find out about the most recent developments in technology as they relate to data analytics, big data management, data migration, data integration, data pipelines, data modeling, and other related topics. You'll also find useful tips and advice.
+
+17. <a href="https://aryng.com/blog/">Aryng's Blog:</a>
+The services of data science consulting, advisory, and training are all provided by Aryng. Our SWAT Data Science team assists in the resolution of difficult business issues, the growth of the company's data DNA via the implementation of Data Literacy initiatives, and the delivery of a speedy return on investment through the use of machine learning, deep learning, and AI. This blog is a collection of essays produced by specialists from Aryng on a variety of topics, and it can be accessed here. In these pages, you will discover a comprehensive explanation of a variety of terminology, ranging from the most fundamental to the most sophisticated.
+
+18. <a href="https://www.9to5sas.com/">9TO5SAS:</a>
+Acquire knowledge of data analytics and statistics software and methods, such as Base SAS, Advanced SAS, SAS Macros, and Proc SQL.
 

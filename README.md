@@ -26,7 +26,7 @@
   Initially established on August 28, 2011, inside BIGDATA is a news portal that provides data scientists, IT experts, and business professionals with news, strategies, products, and services pertaining to the area of big data. Big data, data science, artificial intelligence, machine learning, and deep learning are the primary subjects of our journalistic concentration.
 
 10. <a href="https://www.smartdatacollective.com/">SmartData Collective</a>
-  martData Collective is a community that is editorially independent, moderated, and gives corporate executives with access to the most recent developments in business intelligence and data management. Through peer contributions, bespoke content publication, and alignment with industry leaders, our forward-thinking methodology acts as a platform that enables renowned professionals from all around the world to share their thoughts with others.
+  SmartData Collective is a community that is editorially independent, moderated, and gives corporate executives with access to the most recent developments in business intelligence and data management. Through peer contributions, bespoke content publication, and alignment with industry leaders, our forward-thinking methodology acts as a platform that enables renowned professionals from all around the world to share their thoughts with others.
 
 
 

@@ -5,7 +5,7 @@
   KDnuggets is regarded as the go-to destination on the web for information on business analytics, big data, data mining, and data science. Gregory Piatetsky-Shapiro, a preeminent authority in the discipline, is in charge of its management.
 
 3. <a href="https://datafloq.com/">Datafloq:</a>
-  Datafloq is a one-stop shop for information pertaining to artificial intelligence, blockchain, and big data. We provide opportunities, knowledge, and insights to foster innovation using new technology.
+  Datafloq is a one-stop shop for information pertaining to artificial intelligence, blockchains, and big data. We provide opportunities, knowledge, and insights to foster innovation using new technology.
 
 4. <a href="https://blog.revolutionanalytics.com/">Revolution Analytics:</a>
   Revolutions is a blog that is focused on providing members of the R community with news and information that may be of interest to them. Learn more about the open source R programming language from the professionals at Revolution Analytics. They can help you with big data analysis, predictive modeling, data science, and more.

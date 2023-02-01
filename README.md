@@ -1,5 +1,5 @@
 1. <a href="https://www.datasciencecentral.com/">Data Science Central:</a>
-  The Data Science Central website serves as the primary online reference for big data practitioners in the field. From analytics to data integration to visualization, we provide a community experience that consists of a powerful editorial platform, social engagement, forum-based technical help, the most recent technological tools and trends, and career possibilities in the relevant field.
+  The Data Science Central website serves as the primary online reference for big data practitioners in the field. From analytics to data integration to visualization, we provide a community experience that consists of a powerful editorial platforms, social engagement, forum-based technical help, the most recent technological tools and trends, and career possibilities in the relevant field.
 
 2. <a href="https://www.kdnuggets.com/">KDnuggets:</a>
   KDnuggets is regarded as the go-to destination on the web for information on business analytics, big data, data mining, and data science. Gregory Piatetsky-Shapiro, a preeminent authority in the discipline, is in charge of its management.
